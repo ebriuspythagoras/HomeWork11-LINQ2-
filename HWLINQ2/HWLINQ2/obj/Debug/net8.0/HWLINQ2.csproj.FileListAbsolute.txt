@@ -1,0 +1,15 @@
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/bin/Debug/net8.0/HWLINQ2
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/bin/Debug/net8.0/HWLINQ2.deps.json
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/bin/Debug/net8.0/HWLINQ2.runtimeconfig.json
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/bin/Debug/net8.0/HWLINQ2.dll
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/bin/Debug/net8.0/HWLINQ2.pdb
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.AssemblyInfoInputs.cache
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.AssemblyInfo.cs
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.csproj.CoreCompileInputs.cache
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.sourcelink.json
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.dll
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/refint/HWLINQ2.dll
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.pdb
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/HWLINQ2.genruntimeconfig.cache
+/Users/volodimir/HomeWork11-LINQ2-/HWLINQ2/HWLINQ2/obj/Debug/net8.0/ref/HWLINQ2.dll
