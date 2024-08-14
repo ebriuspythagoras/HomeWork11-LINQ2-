@@ -1,11 +1,9 @@
 ﻿using System;
 namespace HWLINQ2
 {
-    public class Book
+    class Book : ArtObject
     {
-        public Book()
-        {
-        }
+        public int Pages { get; set; }
     }
 }
 
