@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{0BE2BE36-5A22-4689-A84A-DA8BACDE5415}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWLINQ2/Program.cs">
+    <Files>
+      <File FileName="HWLINQ2/Program.cs" Line="18" Column="22" />
+      <File FileName="HWLINQ2/Book.cs" Line="10" Column="1" />
+      <File FileName="HWLINQ2/Film.cs" Line="11" Column="1" />
+      <File FileName="HWLINQ2/ArtObject.cs" Line="9" Column="6" />
+      <File FileName="HWLINQ2/Actor.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWLINQ2" expanded="True">
+            <Node name="HWLINQ2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.HWLINQ2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HWLINQ2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

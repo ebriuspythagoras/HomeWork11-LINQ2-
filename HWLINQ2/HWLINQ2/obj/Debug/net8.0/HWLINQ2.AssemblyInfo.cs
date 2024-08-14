@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HWLINQ2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b50fffc412dafe673b4f6db44889de26ce2188f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+420700d7ee76ceca435a104012a351796c1cd8b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HWLINQ2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HWLINQ2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
